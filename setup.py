@@ -8,7 +8,7 @@ setup(
     description='A package for predicting Gold-Ons Prices using LSTM',
     author="İlker Turan",
     author_email="ilkerturan@outlook.com",
-    url="https://github.com/ilkeryolundagerek",
+    url="https://github.com/ilkeryolundagerek/gold_ons_price_predictor",
     install_requires=[
         'numpy', 'pandas', 'tensorflow'
     ],
